@@ -587,7 +587,7 @@ footer .container .contact .info li a {
     display: flex;
     gap: 10px;
   }
-  */ footer {
+  footer {
     padding: 40px;
   }
   footer .container {
